@@ -8,12 +8,13 @@ Activity yo understand how to use Checkstyle as a code quality metric tool to de
 * Jocellyn Marie Luna Gonzales   
 * Robert Denilson Moreno Carrillo
 
-## Files
-### Sites before fixing errors
+## Directories
+### [CodingStandards](CodingStandards)
+Code edited during the workshop. Includes the last HTML report generated and the checks.xml that contains the modules and properties added.
+
+### [Sites before fixing errors](site_before_fixing_errors)
 HTML Files generated for the checkstyle report using before the changes to the code. There were 9 errors.
 
-### Sites after fixing errors
+### [Sites after fixing errors](site_after_fixing_errors)
 HTML Files generated for the checkstyle report using before the changes to the code. There were 9 errors.
 
-### Code
-Code edited for the workshop. Includes the last HTML report generated and the checks.xml that contains the modules and properties added.
